@@ -3,7 +3,7 @@ CareMore System - ProductForge Digital Healthcare Hackathon
 
 (This is a mockup project)
 
-![](./docs/images/CareMoreLogo.png)
+![](./docs/images/CareMoreLogo.png){ width=50% }
 
 ## The CareMore database
 
@@ -13,3 +13,5 @@ Can be started in Docker.
 
 ## The CareMore Python library
 
+* The library is on the [`caremore.py`](./code/caremore.py)
+* An example can be found in this [notebook](./code/CareMore.ipynb).
