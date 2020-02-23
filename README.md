@@ -1,5 +1,6 @@
-# healthcare-hackathon-caremore
-CareMore System - ProductForge Digital Healthcare Hackathon
+# Healthcare Hackathon Caremore
+
+CareMore System - ProductForge Digital Healthcare Hackathon 2020.
 
 (This is a mockup project)
 
