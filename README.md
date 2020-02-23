@@ -3,7 +3,7 @@ CareMore System - ProductForge Digital Healthcare Hackathon
 
 (This is a mockup project)
 
-![](./docs/images/CareMoreLogo.png){ width=50% }
+![](./docs/images/CareMoreLogo.png)
 
 ## The CareMore database
 
