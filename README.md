@@ -20,6 +20,8 @@ Can be started in Docker.
 * The library is on the [`caremore.py`](./code/caremore.py)
 * An example can be found in this [notebook](./code/CareMore.ipynb).
 
+These are the messages when a usere inputs his/her username and password to the system.
+
 ```
 Welcome, what is your login?: 
 Welcome PersonX
