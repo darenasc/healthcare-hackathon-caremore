@@ -20,3 +20,17 @@ Can be started in Docker.
 * The library is on the [`caremore.py`](./code/caremore.py)
 * An example can be found in this [notebook](./code/CareMore.ipynb).
 
+```
+Welcome, what is your login?: 
+Welcome PersonX
+
+Hi PersonX
+Your Next Appointment
+GP Appointment
+2020-02-24 
+04:15 PM
+10 Bowmont Pl Edinburgh
+
+This week`s bonus
+Sausage Roll from Greggs
+```
